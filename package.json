@@ -1,0 +1,10 @@
+{
+    "name": "next-html",
+    "version": "0.1.0",
+    "main": "index.js",
+    "repository": "pankod/next-html",
+    "license": "MIT",
+    "dependencies": {
+        "html-loader": "^0.5.5"
+    }
+}
